@@ -1,4 +1,4 @@
-# Giga-Tic-Tac-Toe
+# Giga Tic-Tac-Toe
 This is an iOS application that I have developed. It is compatible on all iPhone and iPad devices that can support iOS 13.0. Gameplay instructions can be found on the How To Play page of the application.
 
 # Privacy Policy
